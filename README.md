@@ -6,8 +6,7 @@ Pre-requisites
 1. Docker Engine installed and running
 2. Docker Compose installed
 
-Step1: Build project
-It will create a jar file service-template-0.0.1-SNAPSHOT under ./target folder
+Step1: Build project. It will create a jar file service-template-0.0.1-SNAPSHOT under ./target folder
 
 Step2: Open command prompt and go to the directory where the 'Dockerfile" stored - Ex. C:/service-template
 
